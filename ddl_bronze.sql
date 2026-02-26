@@ -1,0 +1,23 @@
+CREATE TABLE bronze.superstore(
+row_id INT,
+order_id NVARCHAR(50),
+order_date DATE,
+ship_date DATE,
+ship_mode NVARCHAR(50),
+customer_id NVARCHAR(50),
+customer_name NVARCHAR(50),
+segment NVARCHAR(50),
+country NVARCHAR(50),
+city NVARCHAR(50),
+state_name NVARCHAR(50),
+postal_code NVARCHAR(50),
+region NVARCHAR(50),
+product_id NVARCHAR(50),
+category NVARCHAR(50),
+sub_category NVARCHAR(50),
+product_name NVARCHAR(50),
+sales FLOAT,
+quantity INT,
+discount FLOAT,
+profit FLOAT
+)
