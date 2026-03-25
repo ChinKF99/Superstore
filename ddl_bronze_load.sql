@@ -1,7 +1,6 @@
 CREATE or ALTER PROCEDURE bronze.load_bronze AS
 BEGIN
 	DECLARE @start_time DATETIME, @end_time DATETIME;
-	BEGIN TRY
 		PRINT '======================';
 		PRINT 'Lading Bronze Layer';
 		PRINT '======================';
