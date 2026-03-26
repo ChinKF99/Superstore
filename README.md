@@ -11,7 +11,8 @@ My final dashboard file is in [DashBoard.xlsx](https://github.com/ChinKF99/Super
 To understand which product bring in the most s, I ask the following:
 1. Which product sell the best?
 2. Which product sell the least?
-3. What is the distribution(%) of each product category to the overall sale?  
+3. What is the distribution(%) of each product category to the overall sale?
+  
 After analyzing the above questions, stakeholders can act accordinly. E.g. carrying out more advertisment activities to improves sales for underperofrming items or cut off the product entirely to save cost.
 
 # Excel Skill Used  
