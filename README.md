@@ -2,19 +2,17 @@
 <img width="1851" height="1028" alt="image" src="https://github.com/user-attachments/assets/7f20e001-e006-494b-a2c6-113e0bf435b4" />
 
 # Introduction  
-This product analysis dashboard was created to help identify the top 10 highest and lowest sales for the product of a superstore, in which the stakehodlers can act accordinly such as carry out more advertisment activities to improves sales or cut off the product entirely to save cost.
+This product analysis dashboard was created to help identify the top 10 highest and lowest sales for the product of a superstore
 
 # Dashboard File  
 My final dashboard file is in [DashBoard.xlsx](https://github.com/ChinKF99/Superstore/blob/main/DashBoard.xlsx)
 
-# Question to Analyze  
-To understand the product market, I ask the following:
+# Question to Analyze and why
+To understand which product bring in the most s, I ask the following:
 1. Which product sell the best?
 2. Which product sell the least?
 3. What is the distribution(%) of each product category to the overall sale?
-
-# Insights for the question
-1. 
+After analyzing the above questions, stakeholders can act accordinly. E.g. carrying out more advertisment activities to improves sales for underperofrming items or cut off the product entirely to save cost.
 
 # Excel Skill Used  
 - Pivot Charts & Tables
