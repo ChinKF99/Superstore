@@ -7,6 +7,12 @@ This product analysis dashboard was created to help identify the top 10 highest 
 # Dashboard File  
 My final dashboard file is in [DashBoard.xlsx](https://github.com/ChinKF99/Superstore/blob/main/DashBoard.xlsx)
 
+# Question to Analyze  
+To understand the product market, I ask the following:
+1. Which product sell the best?
+2. Which product sell the least?
+3. What is the distributio(%) of each product category to the overall sale?
+
 # Excel Skill Used  
 - Pivot Charts & Tables
 - Data Validation
