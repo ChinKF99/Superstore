@@ -32,4 +32,4 @@ After analyzing the above questions, stakeholders can act accordingly. E.g. carr
 The dataset use for this project is obtained from kaggle [Superstore_Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## Conclusion  
-As a individual who has interest in data related skillsets/jobs, I embarked on this project to apply what I learned throughout the months. I have analyzed the the original dataset and validate/filter out columns that is useful and comprehensive such as the product name, product categoy and sales to create the dashboard above. I hope this project serves as a starting point for me in my data adventure.
+As a individual who has interest in data related skillsets/jobs, I embarked on this project to apply what I've learned throughout the months. I have analyzed the original dataset and validate/filter out columns that are useful and comprehensive. E.g. product name, product categoy and sales to create the dashboard above. I hope this project serves as a starting point for my data adventure.
