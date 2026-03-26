@@ -6,3 +6,19 @@ This product analysis dashboard was created to help identify the top 10 highest 
 
 # Dashboard File  
 My final dashboard file is in [DashBoard.xlsx](https://github.com/ChinKF99/Superstore/blob/main/DashBoard.xlsx)
+
+# Excel Skill Used  
+- Pivot Charts & Tables
+- Data Validation
+- Power Query Editor
+
+# SQL Skill Used
+- Use medalion architecture (Bronze, Silver, Gold)
+- Data Cleansing
+- Table Joining
+
+# Power BI Used
+- Charts
+
+# Superstore Dataset
+The dataset use for this project is obtained from kaggle [Superstore_Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
