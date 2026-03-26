@@ -11,7 +11,10 @@ My final dashboard file is in [DashBoard.xlsx](https://github.com/ChinKF99/Super
 To understand the product market, I ask the following:
 1. Which product sell the best?
 2. Which product sell the least?
-3. What is the distributio(%) of each product category to the overall sale?
+3. What is the distribution(%) of each product category to the overall sale?
+
+# Insights for the question
+1. 
 
 # Excel Skill Used  
 - Pivot Charts & Tables
